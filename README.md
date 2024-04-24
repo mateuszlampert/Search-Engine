@@ -18,10 +18,10 @@
 
 ## Demos
 
-![alt text](potter.gif)
+![alt text](demos/potter.gif)
 
 In the example above, we our request is really precise, the difference between engine with and without SVD is not that significant
 
-![alt text](tennis.gif)
+![alt text](demos/tennis.gif)
 
 In the example above, our request is not precise. We provide some context, however, the request does not contain any specific information such as name or surname. In the situation, engine with initialized SVD provided significantly better responses.
